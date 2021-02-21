@@ -120,7 +120,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-SMART_HOME_ACCESS_TOKEN = 'd3c763687602b8916319c1ac5ca4d259bb7384aa488f9fa9ccbc2fcf93925e32'
+SMART_HOME_ACCESS_TOKEN = ''
 SMART_HOME_API_URL = 'https://smarthome.webpython.graders.eldf.ru/api/user.controller'
 EMAIL_HOST  = os.getenv('EMAIL_HOST', 'EMAIL_HOST')
 EMAIL_PORT  = os.getenv('EMAIL_PORT', 'EMAIL_PORT')
