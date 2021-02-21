@@ -1,0 +1,7 @@
+celerybeat-schedule.*
+*.sqlite3
+venv/
+.idea/
+.pytest_cache
+__pycache__/
+*.py[co]
